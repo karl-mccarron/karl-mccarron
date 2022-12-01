@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karl-mccarron
 - 👀 I’m interested in theoretical physics, programming, and anything mathematical
 - 🌱 I’m currently learning Haskell to brush up on functional programming and its benefits
-- 💞️ I’m looking to collaborate on anything involving techniques from quantum field theories, as this is my academic background
+- 💞️ I’m looking to collaborate on anything involving techniques from theoretical physics and the big ideas around it, as this is my academic background
 - 📫 How to reach me: email me at karlmccarron@cantab.net. It's regularly checked!
 
 <!---
